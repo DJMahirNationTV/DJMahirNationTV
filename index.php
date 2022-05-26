@@ -5,6 +5,8 @@
     <title></title>
   </head>
   <body>
-    <h1>asdvguhbinjmk</h1>
+    <?php
+echo "Hello world!";
+?>
   </body>
 </html>
