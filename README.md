@@ -13,8 +13,8 @@ I'm familiar & work on a daily basis with HTML, CSS, JavaScript, Bootstrap and N
 [![Minecraft](https://img.shields.io/badge/djmahirnationtv-blue?style=for-the-badge&logo=xbox&logoColor=white)](https://de.namemc.com/profile/DJMahirNationTV.1)
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Mineland Network
+## Profile Section
+👩‍💻 I'm currently working at novomind AG
 
 😄 Pronouns He/him
 
