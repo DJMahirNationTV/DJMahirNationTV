@@ -1,8 +1,8 @@
 # 💫 About Me:
-👩‍💻 I'm currently working at novomind AG<br>🎧 Fun fact I'm a multi Music Producer/DJ<br>🏃‍♂️‍➡️I'm a Minecraft Animator<br>🎮I love to play Minecraft and code there<br>👻Horror Movies are pretty much my Taste<br>
+👩‍💻 I'm currently working as a Fullstack Developer<br>🎧 Fun fact I'm a multi Music Producer/DJ<br>🏃‍♂️‍➡️I'm a Minecraft Animator<br>🎮I love to play Minecraft and code there<br>👻Horror Movies are pretty much my Taste<br>
 
 ## 🌍 Website:
-[DJMahirNationTV.com](https://djmahirnationtv.com)
+[djmahirnationtv.com](https://djmahirnationtv.com)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/channels/@me/547479670720036903/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dj_mahir_nation_tv) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/djmahirnationtv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/djmahirnationtv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFfTTLCOKqTHVy_PBwKvanA) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/djmahirnationtv) 
